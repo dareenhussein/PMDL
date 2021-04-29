@@ -15,10 +15,10 @@ Now, to run the labs, open the Jupyter notebook on Colab. Navigate to the "Runti
 
 Use the following links to navigate through the labs:
 
-* [Lab1: Linear Regression & Logistic Regression](https://github.com/dareenhussein/PMDL/blob/64489cddc65927ad5458d100c292eb396d3a5e4a/Labs/Lab1/README.md)
-* [Lab2: Multinominal Classification](labs/lab2/README.md)
-* [Lab3: Convolutional Neural Networks Use Cases](labs/lab3/README.md)
-* [Lab4: Music Generation with RNNs](labs/lab4/README.md)
+* [Lab1: Linear Regression & Logistic Regression](https://github.com/dareenhussein/PMDL/blob/64489cddc65927ad5458d100c292eb396d3a5e4a/Labs/Lab1)
+* [Lab2: Multinominal Classification](https://github.com/dareenhussein/PMDL/blob/1993d847bfb72ed51aa29fcfbb3fbacec233a3d1/Labs/Lab2)
+* [Lab3: Convolutional Neural Networks Use Cases](https://github.com/dareenhussein/PMDL/blob/1993d847bfb72ed51aa29fcfbb3fbacec233a3d1/Labs/Lab3)
+* [Lab4: Music Generation with RNNs](https://github.com/dareenhussein/PMDL/blob/1993d847bfb72ed51aa29fcfbb3fbacec233a3d1/Labs/Lab4)
 * [Lab5: Visual Image Caption Generation](labs/lab5/README.md)
 * [Lab6: Cartpole - Reinforcement Learning](labs/lab6/README.md)
 * [Lab7: Generative Adversarial Networks](labs/lab7/README.md)
