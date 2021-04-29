@@ -19,6 +19,6 @@ Use the following links to navigate through the labs:
 * [Lab2: Multinominal Classification](labs/lab2/README.md)
 * [Lab3: Convolutional Neural Networks Use Cases](labs/lab3/README.md)
 * [Lab4: Music Generation with RNNs](labs/lab4/README.md)
-* [Lab5: Visual Image Caption Generation]((labs/lab5/README.md)
+* [Lab5: Visual Image Caption Generation](labs/lab5/README.md)
 * [Lab6: Cartpole - Reinforcement Learning](labs/lab6/README.md)
 * [Lab7: Generative Adversarial Networks](labs/lab7/README.md)
