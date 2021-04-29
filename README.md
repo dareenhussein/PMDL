@@ -15,10 +15,10 @@ Now, to run the labs, open the Jupyter notebook on Colab. Navigate to the "Runti
 
 Use the following links to navigate through the labs:
 
-* [Lab1: Linear Regression & Logistic Regression](lab1/Readme.md)
-* [Lab2: Multinominal Classification](lab2/Readme.md)
-* [Lab3: Convolutional Neural Networks Use Cases](lab3/Readme.md)
-* [Lab4: Music Generation with RNNs](lab4/Readme.md)
-* [Lab5: Visual Image Caption Generation](lab5/Readme.md)
-* [Lab6: Cartpole - Reinforcement Learning](lab6/Readme.md)
-* [Lab7: Generative Adversarial Networks](lab7/Readme.md)
+* [Lab1: Linear Regression & Logistic Regression](labs/lab1/README.md)
+* [Lab2: Multinominal Classification](labs/lab2/README.md)
+* [Lab3: Convolutional Neural Networks Use Cases](labs/lab3/README.md)
+* [Lab4: Music Generation with RNNs](labs/lab4/README.md)
+* [Lab5: Visual Image Caption Generation]((labs/lab5/README.md)
+* [Lab6: Cartpole - Reinforcement Learning](labs/lab6/README.md)
+* [Lab7: Generative Adversarial Networks](labs/lab7/README.md)
