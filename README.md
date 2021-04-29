@@ -15,7 +15,7 @@ Now, to run the labs, open the Jupyter notebook on Colab. Navigate to the "Runti
 
 Use the following links to navigate through the labs:
 
-* [Lab1: Linear Regression & Logistic Regression](labs/lab1/README.md)
+* [Lab1: Linear Regression & Logistic Regression](https://github.com/dareenhussein/PMDL/blob/64489cddc65927ad5458d100c292eb396d3a5e4a/Labs/Lab1/README.md)
 * [Lab2: Multinominal Classification](labs/lab2/README.md)
 * [Lab3: Convolutional Neural Networks Use Cases](labs/lab3/README.md)
 * [Lab4: Music Generation with RNNs](labs/lab4/README.md)
